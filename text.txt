@@ -1,0 +1,2 @@
+
+now starting practicing Terraform to create azure resources
