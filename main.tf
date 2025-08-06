@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "example" {
-  name     = "example-resources"
-  location = "East US"
+module "resource_group" {
+  source = "./resource_group"
+
 }
